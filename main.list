@@ -1,7 +1,7 @@
-||afs.googlesyndication.com^$googleads
-||api.luckyorange.com^$luckyorange
-||realtime.luckyorange.com^$luckyorange
-||cdn.luckyorange.com^$luckyorange
+||afs.googlesyndication.com^
+||api.luckyorange.com^
+||realtime.luckyorange.com^
+||cdn.luckyorange.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
@@ -28,6 +28,8 @@
 ||ck.ads.oppomobile.com^
 ||click.oneplus.cn^
 ||api-adservices.apple.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
 ||books-analytics-events.apple.com^
 ||metrics.data.hicloud.com^
 ||metrics2.data.hicloud.com^
